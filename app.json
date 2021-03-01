@@ -34,7 +34,7 @@
     "FFmpeg": {
       "description": "Path to python binary",
       "value": "/app/vendor/ffmpeg"
-    },
+    }
   },
   "website": "https://alltubedownload.net/"
 }
