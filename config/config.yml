@@ -17,13 +17,13 @@ params:
 convert: true
 
 # True to enable advanced conversion mode
-convertAdvanced: true
+convertAdvanced: false
 
 # List of formats available in advanced conversion mode
-convertAdvancedFormats: [mp3, avi, flv, wav]
+convertAdvancedFormats: [mp3]
 
 # Path to your ffmpeg binary
-ffmpeg: /usr/bin/ffmpeg
+ffmpeg: /app/vendor/ffmpeg/ffmpeg
 
 # ffmpeg logging level.
 ffmpegVerbosity: error
